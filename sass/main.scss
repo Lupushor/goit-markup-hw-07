@@ -1,8 +1,18 @@
-@import './header';
-@import './hero';
-@import './description';
-@import './direction';
-@import './team';
-@import './customers';
-@import './footer';
-@import './portfolio';
+@import './utils/vars';
+@import './base/reset';
+@import './base/commons';
+
+@import './components/container';
+@import './components/sections';
+
+@import './utils/hiddens';
+
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/description';
+@import './layouts/direction';
+@import './layouts/team';
+@import './layouts/customers';
+@import './layouts/footer';
+@import './layouts/portfolio';
+@import './layouts/modal';
