@@ -1,4 +1,5 @@
-@import './utils/vars';
+@import './utils/placehokders';
+@import './utils/variables';
 @import './base/reset';
 @import './base/commons';
 
@@ -15,7 +16,7 @@
 @import './layouts/customers';
 @import './layouts/footer-logo';
 @import './layouts/footer-container';
-@import './layouts/footer-adress';
+@import './layouts/footer-address';
 @import './layouts/footer-invitation';
 @import './layouts/footer-singUp';
 @import './layouts/portfolio';
